@@ -9,8 +9,8 @@ header{
     h1{
         text-align: center;
         text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.473);
+        
     }
-    margin: auto;
 }
 section{
     background-color: white;
@@ -33,4 +33,11 @@ a{
 a:hover{
     color: #18a6ff;
     text-decoration: underline;
+}
+.inp{
+    font: normal 16px Arial;
+    width: 55px;
+}
+#botao{
+    font: normal 16px Arial;
 }
