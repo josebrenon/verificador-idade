@@ -8,6 +8,7 @@ body{
 header{
     h1{
         text-align: center;
+        text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.473);
     }
     margin: auto;
 }
@@ -27,4 +28,9 @@ footer{
 a{
     text-decoration: none;
     color: white;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.473);
+}
+a:hover{
+    color: #18a6ff;
+    text-decoration: underline;
 }
